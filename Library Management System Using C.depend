@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644077282 source:c:\users\taraq\onedrive\desktop\c\library management system using c\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
